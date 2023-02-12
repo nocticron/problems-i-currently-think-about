@@ -28,3 +28,15 @@ https://openlineage.io/blog/openlineage-spark/
 ### Goal
 
 To develop a better understanding of Spark design decisions. To check if I am wrong or right about where bullets.
+
+## Chinese CPUs
+> "replace all foreign hardware and software from its public infrastructure with homegrown solutions" by 2023 (the so-called 3–5–2 policy)
+
+1. make a chinese CPUs map, also TPUs, GPUs, RAM etc
+1. overclocking!
+
+### Futher reading: TODO
+1. Hygon
+1. Phytium
+1. Zhaoxin
+1. https://en.wikipedia.org/wiki/Semiconductor_industry_in_China
